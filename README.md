@@ -7,6 +7,7 @@ gis全栈资料整理
 
 ## GIS数据处理
 - [osg-serializer-js：纯JavaScript模块，用于读取.osgb和.osgt文件](https://github.com/eran-pinhas/osg-serializer-js)
+- [tilemaker：从.osm.pbf文件中创建mapbox类型的矢量瓦片 ](https://github.com/systemed/tilemaker)
 
 
 ## 三维地形服务
