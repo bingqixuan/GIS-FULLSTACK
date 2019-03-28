@@ -12,3 +12,7 @@ gis全栈资料整理
 
 ## 三维地形服务
 - Cesium地形服务：https://3d.geo.admin.ch/1.0.0/ch.swisstopo.terrain.3d/default/20160115/4326
+
+
+## GIS数据展示工具
+- [一个用来展示geojson数据的在线地址，可配置样式与高度](https://maptime-ams.github.io/geojson-3d/)
