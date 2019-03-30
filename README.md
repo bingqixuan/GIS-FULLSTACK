@@ -1,8 +1,9 @@
 # GIS-FULLSTACK
 gis全栈资料整理
 
-## 开源GIS图形引擎
+## 开源GIS图形引擎或小型GIS可视化库
 - [harp.gl：一个基于webgl的实验性的和正在开发的开源三维地图渲染引擎，由HERE地图开发](https://github.com/heremaps/harp.gl)
+- [3d-earth：用MapboxGL,d3.js和three.js结合起来做的三维球可视化](https://github.com/cheeaun/3d-earth)
 
 
 ## GIS数据处理
