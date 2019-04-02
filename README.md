@@ -6,12 +6,10 @@ gis全栈资料整理
 - [3d-earth：用MapboxGL,d3.js和three.js结合起来做的三维球可视化](https://github.com/cheeaun/3d-earth)
 
 
-## GIS数据处理
+## GIS数据解析
 - [osg-serializer-js：纯JavaScript模块，用于读取.osgb和.osgt文件](https://github.com/eran-pinhas/osg-serializer-js)
 - [tilemaker：从.osm.pbf文件中创建mapbox类型的矢量瓦片 ](https://github.com/systemed/tilemaker)
 - [geotiff.js：一个小型库，用于解析TIFF文件以进行可视化或分析。](https://github.com/geotiffjs/geotiff.js)
-- [gdal2mbtiles：把影像转成mbtiles文件](https://github.com/ecometrica/gdal2mbtiles)
-- [gdal2tiles：将栅格数据转换成TMS或者XYZ瓦片](https://github.com/Luqqk/gdal2tiles)
 
 
 ## 三维地形服务
@@ -20,3 +18,9 @@ gis全栈资料整理
 
 ## GIS数据展示工具
 - [一个用来展示geojson数据的在线地址，可配置样式与高度](https://maptime-ams.github.io/geojson-3d/)
+
+
+## GIS数据处理
+- [用python编写的可以生成cesium的高度图和地形瓦片](https://github.com/giohappy/gdal2cesium)
+- [gdal2mbtiles：把影像转成mbtiles文件](https://github.com/ecometrica/gdal2mbtiles)
+- [gdal2tiles：将栅格数据转换成TMS或者XYZ瓦片](https://github.com/Luqqk/gdal2tiles)
