@@ -2,8 +2,9 @@
 gis全栈资料整理
 
 ## 开源GIS图形引擎或小型GIS可视化库
-- [harp.gl：一个基于webgl的实验性的和正在开发的开源三维地图渲染引擎，由HERE地图开发](https://github.com/heremaps/harp.gl)
-- [3d-earth：用MapboxGL,d3.js和three.js结合起来做的三维球可视化](https://github.com/cheeaun/3d-earth)
+- [harp.gl](https://github.com/heremaps/harp.gl)：一个基于webgl的实验性的和正在开发的开源三维地图渲染引擎，由HERE地图开发
+- [3d-earth](https://github.com/cheeaun/3d-earth)：用MapboxGL,d3.js和three.js结合起来做的三维球可视化
+- [wrld.js](https://github.com/wrld3d/wrld.js)：同样也是基于webgl的3D地图库，基于leaflet.js，但是需要注册账户，可能类似于mapbox那种吧
 
 
 ## GIS数据解析
