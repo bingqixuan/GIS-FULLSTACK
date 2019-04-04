@@ -32,3 +32,4 @@ gis全栈资料整理
 - [tilegrinder：一个node库，用于在MBTiles容器中轻松更改Vector Tiles的某些逻辑](https://github.com/rastapasta/tilegrinder)
 - [用于从矢量地图数据和Mapbox GL样式来生成栅格地图图块](https://github.com/CMU-CREATE-Lab/tile-generation)
 - [tileshrink：用于减少和简化MBTiles容器中的Vector Tile功能的CLI工具](https://github.com/rastapasta/tileshrink)
+- [fresco：矢量瓦片样式编辑器，包括mapbox矢量瓦片样式、geojson样式等](https://github.com/go-spatial/fresco)
