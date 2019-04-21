@@ -6,6 +6,7 @@ gis全栈资料整理
 - [3d-earth](https://github.com/cheeaun/3d-earth)：用MapboxGL,d3.js和three.js结合起来做的三维球可视化
 - [wrld.js](https://github.com/wrld3d/wrld.js)：同样也是基于webgl的3D地图库，基于leaflet.js，但是需要注册账户，可能类似于mapbox那种吧
 - [realtime-webgl-globe](https://github.com/askmike/realtime-webgl-globe)：基于three.js，一个很小型的地球库，不过时间久，16年时候开发的了
+- [webgl-visualization](https://github.com/pubnub/webgl-visualization)：基于three.js的小型地球库，有飞线效果
 
 
 ## GIS数据解析
@@ -38,3 +39,7 @@ gis全栈资料整理
 - [tileshrink：用于减少和简化MBTiles容器中的Vector Tile功能的CLI工具](https://github.com/rastapasta/tileshrink)
 - [fresco：矢量瓦片样式编辑器，包括mapbox矢量瓦片样式、geojson样式等](https://github.com/go-spatial/fresco)
 - [tegola：用Go编写的Mapbox矢量瓦片服务器](https://github.com/go-spatial/tegola)
+
+
+## 其他
+- [一组Mapbox的样式集合](https://github.com/huanglii/Mapbox-Styles-Collection)
