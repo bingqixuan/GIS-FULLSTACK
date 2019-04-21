@@ -20,6 +20,7 @@ gis全栈资料整理
 ## GIS数据展示工具
 - [一个用来展示geojson数据的在线地址，可配置样式与高度](https://maptime-ams.github.io/geojson-3d/)
 - [在地图上绘制图形，并可以对其以geojson的方式进行下载](https://labs.mapbox.com/svg-to-geojson/)
+- [gltf的web端查看器](https://github.com/xiaoiver/a-simple-gltf-viewer)
 
 
 ## GIS数据处理
