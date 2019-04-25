@@ -7,6 +7,7 @@ gis全栈资料整理
 - [wrld.js](https://github.com/wrld3d/wrld.js)：同样也是基于webgl的3D地图库，基于leaflet.js，但是需要注册账户，可能类似于mapbox那种吧
 - [realtime-webgl-globe](https://github.com/askmike/realtime-webgl-globe)：基于three.js，一个很小型的地球库，不过时间久，16年时候开发的了
 - [webgl-visualization](https://github.com/pubnub/webgl-visualization)：基于three.js的小型地球库，有飞线效果
+- [openglobus：JavaScript 3d地图和地理空间数据可视化引擎库](https://github.com/openglobus/openglobus)
 
 
 ## GIS数据解析
