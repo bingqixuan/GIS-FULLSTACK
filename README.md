@@ -41,5 +41,9 @@ gis全栈资料整理
 - [tegola：用Go编写的Mapbox矢量瓦片服务器](https://github.com/go-spatial/tegola)
 
 
+## GIS数据
+- [开源美国CityGML数据](https://github.com/opencitymodel/opencitymodel)
+
+
 ## 其他
 - [一组Mapbox的样式集合](https://github.com/huanglii/Mapbox-Styles-Collection)
